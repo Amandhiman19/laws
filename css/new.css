@@ -1,0 +1,271 @@
+* {
+margin:0;
+padding:0;
+}
+.container {
+width:100%;
+overflow:hidden;
+height: 527vh;
+}
+header {
+width: 100%;
+background-color: #ffc045;
+}
+img {
+max-width: 100%;
+height: auto;
+}
+section.bannersection {
+background-color: #ffc045;
+}
+.breads {
+display: flex;
+padding-top: 27px;
+}
+.logo {
+margin-left: 45px;
+}
+.scot {
+margin-left: 650px;
+}
+h2.bars {
+display: flex;
+flex-direction: row;
+justify-content: end;
+font-size: 12px;
+}
+p.am {
+margin-right: 31px;
+}
+p.scf {
+margin-bottom: 10px;
+}
+.heads {
+display: flex;
+}
+.pesb {
+margin-left: 301px;
+padding-top: 12px;
+}
+.para {
+position: relative;
+top: 80px;
+left: 50px;
+}
+p.abc {
+border: dashed;
+border-color: #3d2514;
+color:#3d2514;
+}
+h2.kings {
+font-family: serif;
+color:#3d2514;
+}
+h1.BURGERS {
+font-size: 51px;
+color:#3d2514;
+}
+.first {
+display: flex;
+margin-top: 53px;
+}
+.recipe {
+margin-left: 21px;
+padding: 15px;
+}
+.kims {
+margin-left: 51px;
+}
+p.burhs {
+margin-top: 17px;
+}
+p.two {
+margin-top: 34px;
+}
+p.tasty {
+width: 15%;
+position: relative;
+left: 567px;
+background-color: #ffc045;
+padding: 10px;
+}
+h1.always {
+font-size: 44px;
+font-style: italic;
+color:#3d2514;
+}
+p.LORSEM {
+width: 41%;
+position: relative;
+left: 403px;
+color:#3d2514;
+top: 16px;
+}
+.tastte {
+text-align: center;
+margin-top: 32px;
+}
+h1.tasty {
+background-color: #ffc045;
+width: 18%;
+font-size: 18px;
+position: relative;
+left: 547px;
+padding: 18px;
+color:#3d2514;
+}
+.headersdf {
+display: flex;
+justify-content: space-evenly;
+color:#3d2514;
+}
+.imdsa {
+position: relative;
+top: 48px;
+}
+.imds {
+position: relative;
+top: 75px;
+}
+button.mnb {
+padding: 7px;
+background-color: #f44336;
+color: #fff;
+margin-top: 13px;
+}
+p.ipsum {
+width: 78%;
+margin-top: 8px;
+}
+p.amet {
+width: 37%;
+position: relative;
+top: 273px;
+left: 65px;
+color:#3d2514;
+}
+p.discover {
+position: relative;
+top: 228px;
+left: 66px;
+font-family: cursive;
+font-size: 16px;
+color:#3d2514;
+}
+h1.upcoming {
+font-size: 32px;
+position: relative;
+top: 230px;
+left: 63px;
+color:#3d2514;
+}
+.fourth {
+position: relative;
+top: 220Px;
+left: 466px;
+width: 100%;
+}
+p.bugs {
+position: relative;
+right: 474px;
+bottom: 140px;
+}
+p.bottle {
+position: relative;
+right: 389px;
+bottom: 257px;
+}
+p.imagsss {
+position: relative;
+left: 642px;
+bottom: 587px;
+}
+.b2b {
+position: relative;
+    bottom: 1161px;
+}
+.mial {
+display: flex;
+flex-direction: column;
+width: 20%;
+margin-top: 21px;
+}
+.mailsss {
+display: flex;
+flex-direction: column;
+width: 20%;
+position: relative;
+left: 299px;
+bottom: 246px;
+}
+input.inputStyle {
+margin-bottom: 23px;
+padding: 20px;
+}
+button.contacts {
+padding: 20px;
+color: #fff;
+background-color: red;
+}
+h1.yours {
+margin-left: 128px;
+font-size: 34px;
+font-family: cursive;
+color:#3d2514;
+}
+p.reserve {
+position: relative;
+left: 211px;
+top: 7px;
+font-size: 22px;
+font-family: cursive;
+color:#3d2514;
+}
+.yoursdf {
+    position: relative;
+    bottom: 1013px;
+    left: 15px;
+}
+p.consect {
+width: 35%;
+position: relative;
+bottom: 1410px;
+left: 159px;
+color: #fff;
+}
+p.company {
+width: 35%;
+position: relative;
+bottom: 1240px;
+left: 159px;
+color: #fff;
+}
+p.abcd {
+position: relative;
+bottom: 1455px;
+left: 150px;
+color: #fff;
+}
+.mediass {
+position: relative;
+bottom: 1460px;
+left: 1003px;
+color: #fff;
+}
+p.texd {
+position: relative;
+left: 49px;
+bottom: 72px;
+font-size: 18px;
+}
+p.texx{
+position: relative;
+left: 49px;
+bottom: 47px;
+font-size: 18px;
+}
+p.fb {
+    position: relative;
+    top: 73px;
+    left: 82px;
+}
